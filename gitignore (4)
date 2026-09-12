@@ -1,0 +1,19 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Output CSVs (regenerated each run - remove these lines if you want to commit sample outputs)
+portfolio_returns.csv
+return_distribution.csv
+monte_carlo_paths.csv
+risk_metrics_summary.csv
+
+# OS/editor junk
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
